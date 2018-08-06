@@ -7,3 +7,4 @@ pasta
 paneer
 dosa
 idli
+sambhar
